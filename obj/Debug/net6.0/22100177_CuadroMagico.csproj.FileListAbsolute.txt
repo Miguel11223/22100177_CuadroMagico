@@ -1,0 +1,15 @@
+C:\Users\DELL\Downloads\Estructura 2\22100177_CuadroMagico\bin\Debug\net6.0\22100177_CuadroMagico.exe
+C:\Users\DELL\Downloads\Estructura 2\22100177_CuadroMagico\bin\Debug\net6.0\22100177_CuadroMagico.deps.json
+C:\Users\DELL\Downloads\Estructura 2\22100177_CuadroMagico\bin\Debug\net6.0\22100177_CuadroMagico.runtimeconfig.json
+C:\Users\DELL\Downloads\Estructura 2\22100177_CuadroMagico\bin\Debug\net6.0\22100177_CuadroMagico.dll
+C:\Users\DELL\Downloads\Estructura 2\22100177_CuadroMagico\bin\Debug\net6.0\22100177_CuadroMagico.pdb
+C:\Users\DELL\Downloads\Estructura 2\22100177_CuadroMagico\obj\Debug\net6.0\22100177_CuadroMagico.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Estructura 2\22100177_CuadroMagico\obj\Debug\net6.0\22100177_CuadroMagico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Estructura 2\22100177_CuadroMagico\obj\Debug\net6.0\22100177_CuadroMagico.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Estructura 2\22100177_CuadroMagico\obj\Debug\net6.0\22100177_CuadroMagico.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Estructura 2\22100177_CuadroMagico\obj\Debug\net6.0\22100177_CuadroMagico.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Estructura 2\22100177_CuadroMagico\obj\Debug\net6.0\22100177_CuadroMagico.dll
+C:\Users\DELL\Downloads\Estructura 2\22100177_CuadroMagico\obj\Debug\net6.0\refint\22100177_CuadroMagico.dll
+C:\Users\DELL\Downloads\Estructura 2\22100177_CuadroMagico\obj\Debug\net6.0\22100177_CuadroMagico.pdb
+C:\Users\DELL\Downloads\Estructura 2\22100177_CuadroMagico\obj\Debug\net6.0\22100177_CuadroMagico.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Estructura 2\22100177_CuadroMagico\obj\Debug\net6.0\ref\22100177_CuadroMagico.dll
